@@ -1,1 +1,1 @@
-Config files for alacritty, inspired ...?
+Config files for alacritty, inspired by catppuccin and ...?
