@@ -1,1 +1,1 @@
-Config files for alacritty, inspired by catppuccin and ...?
+https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles
