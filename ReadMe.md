@@ -18,7 +18,7 @@
 My alacritty config. May be out of date/broken since I dont use alacritty as my main terminal anymore.
 
 # Credit
-- Catppuccins' [alacratty theme
+- Catppuccin's [alacratty theme
 ](https://github.com/catppuccin/alacritty)https://github.com/catppuccin/alacritty
 
 
