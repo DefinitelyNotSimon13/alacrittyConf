@@ -20,3 +20,6 @@ My alacritty config. May be out of date/broken since I dont use alacritty as my 
 # Credit
 - Catppuccins' [alacratty theme
 ](https://github.com/catppuccin/alacritty)https://github.com/catppuccin/alacritty
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
